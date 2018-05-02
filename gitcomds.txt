@@ -1,0 +1,9 @@
+git init // initialise git in the folder
+git status // check branches or commits
+echo "string of text" >> filename.ext
+git add filename.ext //add file to repository
+git commit -m "some words describing the commit"
+git config --global user.email "you@example.com"
+git config --global user.name "your name"
+git remote add origin https://github.com/edcsu/hello-world.git
+git push -u origin master
