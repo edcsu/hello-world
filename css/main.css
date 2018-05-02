@@ -1,0 +1,39 @@
+
+.header {
+            text-align: center;
+            font-family: cursive;}
+
+hr {
+        border:2px solid black;
+        width: 10%;
+     
+    }
+
+table {
+        width: 100%; 
+        border-collapse: collapse;
+        
+      }
+    
+th {
+        text-align: left; 
+        text-decoration-line: underline;
+    }
+
+td {
+        border: 2px solid black;
+    }
+    
+#tu {
+        text-decoration-line: underline;
+      }
+
+input[type="text"] {
+                        background-color: aqua;
+                    }
+.dline {
+            border-bottom: 4px solid black;
+            border-top: hidden;
+            border-right: hidden;
+            border-left: hidden;
+        }
